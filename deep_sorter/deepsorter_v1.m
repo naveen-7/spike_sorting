@@ -4,9 +4,10 @@
 
 
 close all;
-clear;
+clear all;
 clc;
 % Setup directories--------------------------------------------------------
+%%%%% enter your directory here
 codes_dir = 'E:\NAVEEN_Work\Cerebellum\Codes\CER_codes_NEW\LINEAR';
 data_dir= 'E:\NAVEEN_Work\Cerebellum\Data\RECORDED_CELLS';
 
