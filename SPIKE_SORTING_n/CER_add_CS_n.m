@@ -11,7 +11,7 @@
 function CER_add_CS_n
 
 clc;
-clear all;
+clear;
 close all;
 
 
